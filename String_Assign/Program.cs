@@ -44,6 +44,7 @@ public class Program
         string sentence = "This is a sentence.";
         string[] words = sentence.Split(' ');
         Console.WriteLine("Split string: ");
+
         foreach (string word in words)
         {
             Console.WriteLine(word);
