@@ -25,6 +25,7 @@ namespace String_Assign
                     return;
                 }
             }
+
             Console.WriteLine($"Character not occurs in given String");
         }
     }
